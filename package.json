@@ -1,9 +1,1 @@
-{
-  "name": "Machine-game",
-  "version": "1.0.0",
-  "description": "Simple slot machine game in Node.js",
-  "main": "javascript.js",
-  "dependencies": {
-    "prompt-sync": "^4.2.0"
-  }
-}
+
